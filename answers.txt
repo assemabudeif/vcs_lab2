@@ -1,0 +1,7 @@
+- How to remove dev branch 
+locally: git branch -d dev 
+remotely: git push origin -d dev
+
+- Tell me how to delete tag
+locally: git tag -d (tag name)
+remotely: git push origin -d (tag name)
